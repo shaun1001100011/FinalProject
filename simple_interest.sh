@@ -6,7 +6,7 @@
 
 # Author: shaun1001100011
 # Additional Authors:
-# 2022 XYZ, Inc.
+# 2021 XYZ, Inc.
 
 # Input:
 # p, principal amount
