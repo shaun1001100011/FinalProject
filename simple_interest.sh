@@ -4,7 +4,7 @@
 
 # Do not use this in production. Sample purpose only.
 
-# Author: Shaun Crawford shaun1001100011
+# Author: shaun1001100011
 # Additional Authors:
 # Shaun
 
